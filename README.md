@@ -10,13 +10,13 @@ Within this project I:
 - Used GoogleMaps API in Python to return X,Y co-ordinates given addresses as input.
 - Visualised the data in Tableau to show data in the form of a map:
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3b766071-c9ae-422d-83d0-4c4e8a2099f3/Untitled.png)
+![](https://github.com/georgehorgan/DataAnalyticsPortfolio/blob/main/images/main_img1.png)
 
 Full version: [Tableau Viz](https://public.tableau.com/app/profile/george.horgan/viz/LondonpropertiesfromRightmovefilteredbypricepermonth/Sheet1)
 
 - Created a PowerBI dashboard:
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7137dd28-cb6b-4391-8a85-299d1b9069cb/Untitled.png)
+![](https://github.com/georgehorgan/DataAnalyticsPortfolio/blob/main/images/main_img2.png)
 
 ### [French Bakery Analysis](https://github.com/georgehorgan/French_Bakery)
 
@@ -26,13 +26,13 @@ The bakery had been collection data for 21 months and I’m tasked with answerin
 
 Time series analysis:
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e48279fc-5273-419e-990a-3dd34ca3c3fa/Untitled.png)
+![](https://github.com/georgehorgan/DataAnalyticsPortfolio/blob/main/images/main_img3.png)
 
 Full version: [Tableau Time Series Viz](https://public.tableau.com/app/profile/george.horgan/viz/French_bakery_series/TimeSeries)
 
 PowerBI dashboard for the stakeholders:
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d7641fdf-ae9a-46b7-9d36-af995eeaf207/Untitled.png)
+![](https://github.com/georgehorgan/DataAnalyticsPortfolio/blob/main/images/main_img4.png)
 
 ### [An analysis on Europe](https://github.com/georgehorgan/Europe-Project)
 
