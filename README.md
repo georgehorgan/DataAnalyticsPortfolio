@@ -34,7 +34,7 @@ PowerBI dashboard for the stakeholders:
 
 ![](https://github.com/georgehorgan/DataAnalyticsPortfolio/blob/main/images/main_img4.png)
 
-### [An analysis on Europe](https://github.com/georgehorgan/Europe-Project)
+### [An Analysis on Europe](https://github.com/georgehorgan/Europe-Project)
 
 Within this all-python project I:
 
