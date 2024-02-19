@@ -1,5 +1,3 @@
-# George’s Portfolio
-
 ### [Rightmove London Rent Prices Analysis](https://github.com/georgehorgan/Rightmove-properties)
 
 Within this project I:
