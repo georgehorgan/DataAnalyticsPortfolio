@@ -10,7 +10,7 @@ Within this project I:
 - Used GoogleMaps API in Python to return X,Y co-ordinates given addresses as input.
 - Visualised the data in Tableau to show data in the form of a map:
 
-![](https://github.com/georgehorgan/DataAnalyticsPortfolio/blob/main/images/main_img1.png)
+![](./images/main_img1.png)
 
 Full version: [Tableau Viz](https://public.tableau.com/app/profile/george.horgan/viz/LondonpropertiesfromRightmovefilteredbypricepermonth/Sheet1)
 
