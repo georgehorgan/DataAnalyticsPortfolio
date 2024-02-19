@@ -16,7 +16,7 @@ Full version: [Tableau Viz](https://public.tableau.com/app/profile/george.horgan
 
 - Created a PowerBI dashboard:
 
-![](https://github.com/georgehorgan/DataAnalyticsPortfolio/blob/main/images/main_img2.png)
+![](./images/main_img2.png)
 
 ### [French Bakery Analysis](https://github.com/georgehorgan/French_Bakery)
 
@@ -26,13 +26,13 @@ The bakery had been collection data for 21 months and I’m tasked with answerin
 
 Time series analysis:
 
-![](https://github.com/georgehorgan/DataAnalyticsPortfolio/blob/main/images/main_img3.png)
+![](./images/main_img3.png)
 
 Full version: [Tableau Time Series Viz](https://public.tableau.com/app/profile/george.horgan/viz/French_bakery_series/TimeSeries)
 
 PowerBI dashboard for the stakeholders:
 
-![](https://github.com/georgehorgan/DataAnalyticsPortfolio/blob/main/images/main_img4.png)
+![](./images/main_img4.png)
 
 ### [An Analysis on Europe](https://github.com/georgehorgan/Europe-Project)
 
